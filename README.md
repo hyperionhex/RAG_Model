@@ -4,7 +4,7 @@
 
 <h1>Business QA Retrieval Demo</h1>
 
-<p>This repository contains a Google Colab notebook that demonstrates setting up a retrieval-based QA system to answer questions about B</p>
+<p>This repository contains a Google Colab notebook that demonstrates setting up a retrieval-based QA system to answer questions about Business</p>
 
 <h2>Overview</h2>
 
